@@ -1,0 +1,8 @@
+# Zerodha Kite Connect (REST + KiteTicker websocket)
+kiteconnect>=4.2.0
+
+# .env loading
+python-dotenv>=1.0.0
+
+# IST timezone handling
+pytz>=2024.1
